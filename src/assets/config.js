@@ -1,4 +1,4 @@
 export default {
-    pageTitle: "react-vite-template",
-    baseURL: "" 
-}
+  pageTitle: "NextStep",
+  baseURL: "",
+};
